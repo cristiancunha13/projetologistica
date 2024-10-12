@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+.header{ 
+    font-size: 24px;
+    color: white;
+}
+   
+
+.header-menu{
+    background-color: orange;
+    height:auto;
+    padding: 16px 32px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    list-style: none;    
+    display: flex;
+    gap: 16px;
+}
+.menu li{
+   
+}
